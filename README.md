@@ -10,7 +10,6 @@ Event Notifications to keep you updated.
 Personalized Assistance based on user preferences.
 📦 Getting Started
 Clone the Repository and navigate to the project directory.
-Install Dependencies as listed in requirements.txt.
 Run the Application and access the bot via http://localhost:5000.
 🤝 Contribute
 Contributions are welcome! Fork the repo, make your changes, and submit a pull request.
